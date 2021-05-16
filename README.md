@@ -1,6 +1,6 @@
 # Image-Gallery-Assigement-
 
-#Let’s discuss the actual functionality that we are expecting from the application.
+# Let’s discuss the actual functionality that we are expecting from the application.
 
 1. First, the application is loaded with the help of the internet.
 
@@ -19,7 +19,7 @@
 8. After saving your pdf it is automatically visible on the screen using any browser.
 
 
-#Here is the hierarchy that we have placed for our application.
+# Here is the hierarchy that we have placed for our application.
 
 1. At the top, we have the title for the application. It can be set by changing the text property of the Form.
 
@@ -37,6 +37,6 @@
 
 8. For searching, internet connection should work well into your system.
 
-#Here are the screenshot of the application:
+# Here are the screenshot of the application:
 
 ![Sample2](https://user-images.githubusercontent.com/60550123/118392103-5cc7b780-b655-11eb-8b71-821eee84d5f5.PNG)
