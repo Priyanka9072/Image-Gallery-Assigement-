@@ -38,4 +38,5 @@
 8. For searching, internet connection should work well into your system.
 
 #Here are the screenshot of the application:
+
 ![Sample2](https://user-images.githubusercontent.com/60550123/118392103-5cc7b780-b655-11eb-8b71-821eee84d5f5.PNG)
